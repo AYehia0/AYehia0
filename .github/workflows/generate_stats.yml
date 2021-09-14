@@ -52,16 +52,17 @@ jobs:
         python3 stats/generate_images.py
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        EXCLUDED: ${{ secrets.EXCLUDED }}
-        EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
-        EXCLUDE_FORKED_REPOS: false
+        #GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        #EXCLUDED: ${{ secrets.EXCLUDED }}
+        #EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
+        EXCLUDE_FORKED_REPOS: true
 
     # Commits all changed files to the repository
+    # hide the email
     - name: Commit to the repo
       run: |
-        git config --global user.name "mrmissx"
-        git config --global user.email "hi@mrmiss.me"
+        git config --global user.name "AYehia0"
+        git config --global user.email "ahmedyehia"
         git add .
         # "echo" returns true so the build succeeds, even if no changed files
         git commit -m 'Update stats' || echo
