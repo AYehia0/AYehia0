@@ -5,7 +5,6 @@ Hey, I don't know how to write a bio lol
 I love learning new things everyday, and helping others.
 
 
-
 - 🔭 I’m currently backend dev with js.
 - 💬 Hobbies:
   - Linux.
