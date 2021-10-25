@@ -1,19 +1,19 @@
 ### Hi there, it's me Yehia 👋
 
-Hey, I don't know how to write a bio lol
+Hey there :D 
+<br>
 <img src="https://media.giphy.com/media/38bFvh7mpryOA/giphy-downsized-large.gif"  align="right" width="300" height="300"/>
-I love learning new things everyday, and helping others.
+Learning new things everyday is my passion.
 
 
-- 🔭 I’m currently backend dev with js.
+- 🔭 Currently I'm Learning Backend Developement.
 - 💬 Hobbies:
   - Linux.
   - CTF Challeges.
   - Problem Solving, play with me over the codingame: [here](https://www.codingame.com/profile/62b7e061006a319a700c3bc10bd0136d2387783)
  
-- 👨‍💻 Skills: 
-  - More than you can see.
-
+- Skills : 
+  - IDK  
 
 ### Github Stats
 <a>
