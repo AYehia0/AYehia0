@@ -1,8 +1,9 @@
 ### Hi there, it's me Yehia 👋
 
+
 Hey there :D 
 <br>
-<img src="https://media.giphy.com/media/38bFvh7mpryOA/giphy-downsized-large.gif"  align="right" width="300" height="300"/>
+<img src="https://media.giphy.com/media/38bFvh7mpryOA/giphy-downsized-large.gif"  align="right" width="50%" height="50%"/>
 Learning new things everyday is my passion.
 
 
