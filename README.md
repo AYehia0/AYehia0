@@ -1,4 +1,6 @@
 ### it's me Yehia 👋
+![Visitor Count](https://profile-counter.glitch.me/AYehia0/count.svg)
+
 <img src="https://media.giphy.com/media/38bFvh7mpryOA/giphy-downsized-large.gif"  align="right" width="50%" height="50%"/>
 
 1.01<sup>365</sup> = 37.8
