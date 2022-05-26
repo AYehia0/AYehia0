@@ -1,5 +1,5 @@
 ### it's me Yehia 👋
-![Visitor Count](https://profile-counter.glitch.me/AYehia0/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AYehia0&label=Profile%20views&color=0e75b6&style=flat" alt="AYehia0-Count" /> </p>
 
 <img src="https://media.giphy.com/media/38bFvh7mpryOA/giphy-downsized-large.gif"  align="right" width="50%" height="50%"/>
 
